@@ -1,4 +1,4 @@
-# Bluetooth_Beacon_Broadcaster
+# Bluetooth Beacon Broadcaster
 
 - Broadcast Beacon RSSI value
 - sleep mode and TX power level adjustment
