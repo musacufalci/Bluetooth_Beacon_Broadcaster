@@ -5,5 +5,6 @@ Broadcast Beacon RSSI value. Sleep mode and TX power level adjustment. Embedded 
 _______________________________________________________________________________________________________________________________________________________________________
 
 Teknoloji, akıllı telefonların, tabletlerin ve diğer cihazların bir işarete yakın olduklarında eylemler gerçekleştirmesini sağlar. Bluetooth işaretleri, uyumlu bir uygulama veya işletim sistemi tarafından alınan evrensel olarak benzersiz bir tanımlayıcıyı iletmek için Bluetooth düşük enerjili yakınlık algılamasını kullanır. Tanımlayıcı ve onunla birlikte gönderilen birkaç bayt, cihazın fiziksel konumunu belirlemek, müşterileri izlemek veya cihazda sosyal medyada check-in veya anında iletme bildirimi gibi konum tabanlı bir eylemi tetiklemek için kullanılabilir...
+_______________________________________________________________________________________________________________________________________________________________________
 
 - Design by: https://www.linkedin.com/in/musacufalci/
